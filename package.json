@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msmsg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Duvan Palomino <duvanpalomino@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msmsg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
