@@ -8,11 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/duvanpalomino/random-str-msmsg"
+    "url": "https://github.com/duvanpalomino/random-str-msmsg.git"
   },
   "keywords": [],
   "author": "Duvan Palomino <duvanpalomino@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duvanpalomino/random-str-msmsg/issues"
+  },
+  "homepage": "https://github.com/duvanpalomino/random-str-msmsg#readme",
   "bin": {
     "random-str-msmsg": "./bin/global.js"
   },
